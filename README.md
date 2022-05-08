@@ -1,3 +1,8 @@
+### TODO 
+- App.js : firestore 연동 후, 전체 데이터 가져오기
+https://www.youtube.com/watch?v=VqgTr-nd7Cg
+
+
 # Project summary
  - TO DO App 
  - Deployed online
