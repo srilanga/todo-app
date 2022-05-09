@@ -1,6 +1,5 @@
 ### TODO 
-- App.js : firestore 연동 후, 전체 데이터 가져오기
-https://www.youtube.com/watch?v=VqgTr-nd7Cg
+- https://youtu.be/VqgTr-nd7Cg?t=7257
 
 
 # Project summary
@@ -9,7 +8,7 @@ https://www.youtube.com/watch?v=VqgTr-nd7Cg
  - Use firestore Database
 
 # Skills
-- firebase, firestore, React.js
+- firebase/firestore v9, React.js
 1. firebase
   - setting
    > npm install firebase
@@ -37,6 +36,10 @@ https://www.youtube.com/watch?v=VqgTr-nd7Cg
 - "React frontend - firebase" instead of "React frontend - API - Jangle backend"
  - Use input onChange attribute 
  - then React hooks re-render 
+
+# Reference
+- [Warning] Each child in a list should have a unique "key" prop.
+ - https://crong-dev.tistory.com/47
 
 # Getting Started with Create React App
 
